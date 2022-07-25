@@ -1,4 +1,4 @@
-## Welcome to Wave Equation project!
+## Welcome to Wave equation project!
 
 In this repository, we consider the solution of the one-dimensional normalized wave equation of the form:
 $$\frac{\partial^2 u}{\partial \tau^2} - \frac{\partial^2 u}{\partial \xi^2} = 0$$
