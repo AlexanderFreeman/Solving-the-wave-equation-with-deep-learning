@@ -24,4 +24,4 @@ The work is based on the articles https://arxiv.org/abs/2006.11894 and https://a
 
 ## Copyright
 
-Copyright 2022, Alexander Ryabov. Licensed under the Apache License, Version 2.0 (the "License"); you may not use this project's files except in compliance with the License. A copy of the License is provided in the LICENSE file in this repository.
+Copyright 2022, Ryabov A. (code for training NN) and Mitrofanova A. (code for numerical solution of wave equation). Licensed under the Apache License, Version 2.0 (the "License"); you may not use this project's files except in compliance with the License. A copy of the License is provided in the LICENSE file in this repository.
