@@ -20,7 +20,7 @@ using physics-informed neural networks (PINN).
 
 ## Acknowledgements
 
-The work is based on the articles https://arxiv.org/abs/2006.11894 and https://arxiv.org/abs/1912.04737 and repository https://github.com/juansensio/nangs
+The work is based on the articles https://arxiv.org/abs/2006.11894 and https://arxiv.org/abs/1912.04737 and repository https://github.com/juansensio/nangs. The project was made at the AIRI conference on artificial intelligence, held in Sochi, Sirius University in July 2022. We thank the organizers for hosting the conference and interesting project ideas.
 
 ## Copyright
 
