@@ -21,3 +21,7 @@ using physics-informed neural networks (PINN).
 ## Acknowledgements
 
 The work is based on the articles https://arxiv.org/abs/2006.11894 and https://arxiv.org/abs/1912.04737 and repository https://github.com/juansensio/nangs
+
+## Copyright
+
+Copyright 2022, Alexander Ryabov. Licensed under the Apache License, Version 2.0 (the "License"); you may not use this project's files except in compliance with the License. A copy of the License is provided in the LICENSE file in this repository.
